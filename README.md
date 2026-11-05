@@ -75,7 +75,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\install-button.ps1
 | `python mirror_house.py demo` | 看一段参考通关（会剧透） |
 | `python mirror_house.py selftest` | 验收游戏自己的判卷逻辑 |
 
-所有命令都支持 `--json`，输出是单个 JSON 对象，给 agent 解析用。
+开局、查询、交卷、提示、验收都支持 `--json`，输出是单个 JSON 对象，给 agent 解析用；`demo` 除外，它是给人看的。
 
 ## 三关
 
