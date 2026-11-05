@@ -1,0 +1,18 @@
+# 运行期产物
+.mirror-house/
+
+# 玩家自己的答案草稿
+answer*.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统噪声
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
