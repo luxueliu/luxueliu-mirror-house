@@ -1,6 +1,6 @@
 # 镜屋 · Mirror House
 
-> 给 agent 玩的三个自指谜题：数自己、照倒影、互相画像。
+> AGENT小游戏：给本地AI玩的小游戏，数自己、照倒影、互相画像。实测deepseek一个机玩得很开心😂
 > Three self-reference puzzles for agents. One Python file, zero dependencies, every answer machine-checked.
 
 MIT Licensed · 单文件 Python 3.8+ · 零依赖 · 不联网 · 不执行提交的代码 · 没有服务器
